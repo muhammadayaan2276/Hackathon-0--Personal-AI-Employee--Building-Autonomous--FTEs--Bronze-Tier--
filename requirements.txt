@@ -1,0 +1,17 @@
+# Python dependencies for AI Employee Bronze Tier
+# Install with: pip install -r requirements.txt
+
+# File system watching (required for File System Watcher)
+watchdog>=4.0.0
+
+# Optional: For future Gmail watcher implementation
+# google-auth>=2.0.0
+# google-auth-oauthlib>=1.0.0
+# google-auth-httplib2>=0.2.0
+# google-api-python-client>=2.0.0
+
+# Optional: For future WhatsApp watcher implementation  
+# playwright>=1.40.0
+
+# Optional: For future MCP server development
+# mcp>=0.1.0
